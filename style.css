@@ -1,0 +1,25 @@
+body{
+    margin: 0;
+    padding: 0;
+}
+i{
+    color: rgba(211, 59, 59, 0.749);
+    width: 24px;
+    font-size: 16px;
+  
+
+}
+ul li {
+    text-decoration: none;
+    list-style: none;
+    border-bottom: 1px dotted;
+    padding: 2px;
+}
+nav {
+    display: block;
+    border: 1px solid black;
+    font-size: 10px;
+
+    margin: 50%;
+    width: 200px;
+}
